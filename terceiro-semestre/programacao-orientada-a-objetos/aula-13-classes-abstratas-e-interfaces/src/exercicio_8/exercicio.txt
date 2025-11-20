@@ -1,0 +1,5 @@
+Interfaces podem ser usadas em:
+
+Exercício 5: Interface para métodos Acelerar e Frear.
+Exercício 9: Interface AcessoDados para operações de banco.
+Exercício 6: Interface para o método EfetuarCompra.
