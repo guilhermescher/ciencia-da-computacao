@@ -1,0 +1,1 @@
+Veiculo{placa = awg, modelo = voyage, marca = volks, ano de fabricação = 2022, quilometragem = 60000.0}
